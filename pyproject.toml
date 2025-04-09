@@ -31,9 +31,9 @@ dependencies = [
 
 
 [project.urls]
-Documentation = "https://github.com/U.N. Owen/dummy-streamlit#readme"
-Issues = "https://github.com/U.N. Owen/dummy-streamlit/issues"
-Source = "https://github.com/U.N. Owen/dummy-streamlit"
+Documentation = "https://github.com/SKwessel/streamlit_test#readme"
+Issues = "https://github.com/SKwessel/streamlit_test/issues"
+Source = "https://github.com/SKwessel/streamlit_test"
 
 [tool.hatch.version]
 path = "src/dummy_streamlit/__about__.py"
