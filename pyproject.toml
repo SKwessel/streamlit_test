@@ -45,6 +45,10 @@ extra-dependencies = [
 [tool.hatch.envs.types.scripts]
 check = "mypy --install-types --non-interactive {args:src/dummy_streamlit tests}"
 
+[tool.poetry]
+name = "streamlit_test"
+version = "0.1.0"
+
 [tool.coverage.run]
 source_pkgs = ["dummy_streamlit", "tests"]
 branch = true
